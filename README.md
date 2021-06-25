@@ -18,6 +18,7 @@ choco install postman<br>
 choco install docker-desktop<br>
 choco install composer<br>
 choco install vmwareworkstation<br>
+choco install jq
 
 
 ###################### Docker ######################<br><br>
