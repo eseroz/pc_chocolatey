@@ -24,3 +24,12 @@ choco install jq
 ###################### HOW TO USAGE DOCKER ######################<br><br>
 Sql Server installation<br>
 Docker run --restart unless-stopped  -e "ACCEPT_EULA=Y" -v D:\DBYEDEK:/gk_data -e "SA_PASSWORD=Ankara!06" -p 1501:1433 --name sql1 -d mcr.microsoft.com/mssql/server:2019-latest
+
+
+
+
+
+
+
+
+Hehdjjrjfjfkf
