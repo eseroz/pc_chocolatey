@@ -7,7 +7,7 @@ choco install winrar<br>
 choco install googlechrome<br>
 choco install opera<br>
 choco install filezilla<br>
-choco install visualstudio2019community<br>
+choco install visualstudio2022community<br>
 choco install sql-server-2019<br>
 choco install sql-server-management-studio<br>
 choco install notepadplusplus<br>
