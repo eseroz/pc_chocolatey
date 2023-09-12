@@ -4,7 +4,7 @@
 
 chocolatey install<br>
 run powershell (admin)<br>
-<a href="">copy this code</a> and paste powershell command line :<br><br>
+copy the code below paste it into the powershell command line :<br><br>
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
 
